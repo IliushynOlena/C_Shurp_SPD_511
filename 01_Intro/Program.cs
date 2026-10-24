@@ -119,8 +119,6 @@ namespace _01_Intro
             // ConsoleMethods();
             FormatString();
         }
-
-
         static void Literals()
         {
             Console.WriteLine((10).GetType());
