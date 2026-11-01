@@ -15,6 +15,11 @@ namespace _05_String_Builder
             }
          
             word += "blabla";
+            word += "blabla";
+            word += "blabla";
+            word += "blabla";
+            word += "blabla";
+            word += "blabla";
             Console.WriteLine(word);
 
             StringBuilder builder = new StringBuilder();
