@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_IntroToOOP", "06_IntroTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ParamsRefOut", "07_ParamsRefOut\07_ParamsRefOut.csproj", "{5BD100EF-A838-42EF-B546-FBC4696E776D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Exception", "08_Exception\08_Exception.csproj", "{EFA10AB5-8FA5-4105-B793-A9C35795975B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5BD100EF-A838-42EF-B546-FBC4696E776D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD100EF-A838-42EF-B546-FBC4696E776D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD100EF-A838-42EF-B546-FBC4696E776D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA10AB5-8FA5-4105-B793-A9C35795975B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA10AB5-8FA5-4105-B793-A9C35795975B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA10AB5-8FA5-4105-B793-A9C35795975B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA10AB5-8FA5-4105-B793-A9C35795975B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
