@@ -24,7 +24,7 @@ namespace _09_OverloadOperators
         }
 
     }
-        class Point
+    class Point
     {
         public int X { get; set; }
         public int Y { get; set; }
@@ -224,6 +224,9 @@ namespace _09_OverloadOperators
 
             Point p1 = new Point() { X = -5, Y = 8 };
             Point p2 = new Point() { X = 25, Y = 25 };
+            int A = 5;
+            int B = 5;
+            Console.WriteLine(A + B);
 
             if(p1)
                 Console.WriteLine("True");

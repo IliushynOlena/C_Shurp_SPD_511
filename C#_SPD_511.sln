@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_OverloadOperators", "09_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Indexers", "10_Indexers\10_Indexers.csproj", "{2C742C46-0B05-42CA-B00D-1D99E9CE60FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Inheritance", "11_Inheritance\11_Inheritance.csproj", "{2426E481-2B8C-4679-BAE6-1C8F601CB9F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Interfaces", "12_Interfaces\12_Interfaces.csproj", "{A51D9F71-355C-4580-92A3-9423E66389C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{2C742C46-0B05-42CA-B00D-1D99E9CE60FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C742C46-0B05-42CA-B00D-1D99E9CE60FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C742C46-0B05-42CA-B00D-1D99E9CE60FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2426E481-2B8C-4679-BAE6-1C8F601CB9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2426E481-2B8C-4679-BAE6-1C8F601CB9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2426E481-2B8C-4679-BAE6-1C8F601CB9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2426E481-2B8C-4679-BAE6-1C8F601CB9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51D9F71-355C-4580-92A3-9423E66389C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51D9F71-355C-4580-92A3-9423E66389C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51D9F71-355C-4580-92A3-9423E66389C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51D9F71-355C-4580-92A3-9423E66389C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
